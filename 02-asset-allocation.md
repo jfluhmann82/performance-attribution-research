@@ -27,7 +27,7 @@ allocation to stocks are generally exposed to greater market volatility and pote
 investors with a higher bond allocation typically experience lower volatility but potentially sacrifice some potential 
 returns.
 
-Asset allocation attribution truly does helps investors assess their risk tolerance and determine an appropriate 
+Asset allocation attribution truly does help investors assess their risk tolerance and determine an appropriate 
 balance between risk and reward. It's crucial to align asset allocation with investment goals, time horizons, and 
 risk preferences.
 
