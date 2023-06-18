@@ -6,7 +6,7 @@ This article explores the concept of performance attribution in capital markets,
 
 [**1. Introduction**](./01-introduction.md)
   - Background and significance of performance attribution in capital markets.
-  - Purpose and objectives of the research article.
+  - Purpose and objectives of the article.
 
 [**2. Asset Allocation Attribution**](./02-asset-allocation.md)
 - Definition and explanation of asset allocation.
@@ -37,6 +37,3 @@ This article explores the concept of performance attribution in capital markets,
 - Summary of key findings regarding performance attribution in capital markets.
 - Implications for investors and portfolio managers.
 - Importance of continuous performance attribution analysis for informed decision-making and optimizing investment performance.
-
-<!-- **8. References**
-- List of sources and references used in the research paper. -->
