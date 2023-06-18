@@ -1,12 +1,12 @@
 # Asset Allocation Attribution
 
-Asset allocation refers to the strategic decision of how an investor divides their portfolio among different asset 
-classes, such as stocks, bonds, cash, and alternative investments. It is a fundamental aspect of portfolio construction 
+Asset allocation refers to the way an investor divides their portfolio among different asset 
+classes, such as stocks, bonds, cash, and alternative investments. It's a fundamental aspect of building a portfolio 
 and plays a significant role in determining investment performance.
 
 The impact of asset allocation on investment returns is widely recognized. Different asset classes have unique risk 
 and return characteristics, and their performance can vary across different market conditions. Therefore, the 
-allocation of funds among these asset classes becomes crucial in achieving the desired investment objectives.
+allocation of funds among these asset classes is critical in achieving the desired investment objectives.
 
 To understand the influence of asset allocation on performance attribution, let's consider an example. Suppose we have 
 two investors, Investor A and Investor B, with $100,000 each to invest. Investor A decides to allocate 70% of their 
@@ -23,15 +23,15 @@ portfolios. By comparing the returns of Investor A and Investor B, we can attrib
 to their respective asset allocations.
 
 Asset allocation attribution analysis goes beyond comparing returns; it also considers risk. Investors with a higher 
-allocation to stocks generally expose themselves to greater market volatility and potential losses. On the other hand, 
+allocation to stocks are generally exposed to greater market volatility and potential losses. On the other hand, 
 investors with a higher bond allocation typically experience lower volatility but potentially sacrifice some potential 
 returns.
 
-Furthermore, asset allocation attribution helps investors assess their risk tolerance and determine an appropriate 
-balance between risk and reward. It is crucial to align asset allocation with investment goals, time horizons, and 
+Asset allocation attribution truly does help investors assess their risk tolerance and determine an appropriate 
+balance between risk and reward. It's crucial to align asset allocation with investment goals, time horizons, and 
 risk preferences.
 
-In conclusion, asset allocation is a key driver of investment performance. Through asset allocation attribution, 
+Asset allocation is a key driver of investment performance. Through asset allocation attribution, 
 investors can analyze the impact of their allocation decisions on portfolio returns and risk. By understanding the 
 relationship between asset allocation and performance, investors can make informed decisions regarding their portfolio 
 construction and adjust their allocations to achieve desired investment outcomes.
